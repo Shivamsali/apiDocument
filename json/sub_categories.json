@@ -1,0 +1,42 @@
+    [
+    {
+        "id": 0,
+        "sub-category": "T-shirts"
+    },
+    {
+        "id": 1,
+        "sub-category": "Shirts"
+    },
+    {
+        "id": 2,
+        "sub-category": "Trousers"
+    },
+    {
+        "id": 3,
+        "sub-category": "Casuals"
+    },
+    {
+        "id": 4,
+        "sub-category": "Sports"
+    },
+    {
+        "id": 5,
+        "sub-category": "Sweatshirts"
+    },
+    {
+        "id": 6,
+        "sub-category": "Jeans"
+    },
+    {
+        "id": 7,
+        "sub-category": "Shoes"
+    },
+    {
+        "id": 8,
+        "sub-category": "Formals"
+    },
+    {
+        "id": 9,
+        "sub-category": "Watches"
+    }
+]
