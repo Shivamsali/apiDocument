@@ -1,8 +1,5 @@
-[       
-        {
-            "Mens_T-shirts":[
+[
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -13,7 +10,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -24,7 +20,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -35,7 +30,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -46,7 +40,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -57,7 +50,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -68,7 +60,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -79,7 +70,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -88,11 +78,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Shirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -103,7 +90,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -114,7 +100,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -125,7 +110,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -136,7 +120,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -147,7 +130,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -158,7 +140,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -169,7 +150,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -178,11 +158,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Trousers":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -193,7 +170,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -204,7 +180,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -215,7 +190,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -226,7 +200,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -237,7 +210,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -248,7 +220,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -259,7 +230,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -268,11 +238,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Casuals":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -283,18 +250,15 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
                     "image": "https://ibb.co/C1cTHSc",
-                    "brand": "Brand",
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -305,7 +269,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -316,7 +279,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -327,7 +289,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -338,7 +299,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -349,7 +309,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -358,11 +317,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Sports":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -373,7 +329,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -384,7 +339,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -395,7 +349,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -406,7 +359,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -417,7 +369,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -428,7 +379,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -439,7 +389,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -448,11 +397,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Sweatshirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -463,7 +409,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -474,7 +419,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -485,7 +429,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -496,7 +439,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -507,7 +449,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -518,7 +459,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -529,7 +469,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -538,11 +477,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Jeans":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -553,7 +489,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -564,7 +499,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -575,7 +509,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -586,7 +519,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -597,7 +529,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -608,7 +539,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -619,7 +549,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -628,11 +557,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Shoes":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -643,7 +569,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -654,7 +579,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -665,7 +589,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -676,7 +599,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -687,7 +609,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -698,7 +619,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -709,7 +629,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -718,11 +637,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Formals":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -733,7 +649,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -744,7 +659,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -755,7 +669,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -766,7 +679,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -777,7 +689,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -788,7 +699,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -799,7 +709,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -808,11 +717,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Mens_Watches":[
+                },
                 {
-                    "id": 0,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -823,7 +729,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -834,7 +739,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -845,7 +749,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -856,7 +759,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -867,7 +769,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -878,7 +779,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -889,7 +789,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 1,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -898,13 +797,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ]
-        },
-        {
-            "Women_T-shirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -915,7 +809,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -926,7 +819,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -937,7 +829,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -948,7 +839,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -959,7 +849,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -970,7 +859,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -981,7 +869,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -990,11 +877,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Shirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1005,7 +889,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1016,7 +899,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1027,7 +909,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1038,7 +919,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1049,7 +929,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1060,7 +939,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1071,7 +949,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1080,11 +957,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Trousers":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1095,7 +969,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1106,7 +979,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1117,7 +989,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1128,7 +999,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1139,7 +1009,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1150,7 +1019,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1161,7 +1029,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1170,11 +1037,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Casuals":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1185,7 +1049,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1196,7 +1059,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1207,7 +1069,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1218,7 +1079,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1229,7 +1089,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1240,7 +1099,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1251,7 +1109,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -1260,11 +1117,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Sports":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1275,7 +1129,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1286,7 +1139,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1297,7 +1149,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1308,7 +1159,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1319,7 +1169,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1330,7 +1179,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1341,7 +1189,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -1350,11 +1197,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Sweatshirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1365,7 +1209,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1376,7 +1219,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1387,7 +1229,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1398,7 +1239,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1409,7 +1249,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1420,7 +1259,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1431,7 +1269,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -1440,11 +1277,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Jeans":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1455,7 +1289,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1466,7 +1299,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1477,7 +1309,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1488,7 +1319,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1499,7 +1329,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1510,7 +1339,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1521,7 +1349,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -1530,11 +1357,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Shoes":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1545,7 +1369,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1556,7 +1379,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1567,7 +1389,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1578,7 +1399,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1589,7 +1409,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1600,7 +1419,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1611,7 +1429,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -1620,11 +1437,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Formals":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1635,7 +1449,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1646,7 +1459,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1657,7 +1469,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1668,7 +1479,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1679,7 +1489,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1690,7 +1499,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1701,7 +1509,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -1710,11 +1517,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Women_Watches":[
+                },
                 {
-                    "id": 0,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1725,7 +1529,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1736,7 +1539,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1747,7 +1549,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1758,7 +1559,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1769,7 +1569,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1780,7 +1579,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1791,7 +1589,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 2,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -1800,13 +1597,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ]
-        },
-        {
-            "Kids_T-shirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1817,7 +1609,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1828,7 +1619,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1839,7 +1629,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1850,7 +1639,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1861,7 +1649,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1872,7 +1659,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1883,7 +1669,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 0,
                     "discount": 50,
@@ -1892,11 +1677,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Shirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1907,7 +1689,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1918,7 +1699,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1929,7 +1709,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1940,7 +1719,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1951,7 +1729,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1962,7 +1739,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1973,7 +1749,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 1,
                     "discount": 50,
@@ -1982,11 +1757,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Trousers":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -1997,7 +1769,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2008,7 +1779,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2019,7 +1789,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2030,7 +1799,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2041,7 +1809,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2052,7 +1819,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2063,7 +1829,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 2,
                     "discount": 50,
@@ -2072,11 +1837,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Casuals":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2087,7 +1849,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2098,7 +1859,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2109,7 +1869,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2120,7 +1879,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2131,7 +1889,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2142,7 +1899,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2153,7 +1909,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 3,
                     "discount": 50,
@@ -2162,11 +1917,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Sports":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2177,7 +1929,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2188,7 +1939,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2199,7 +1949,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2210,7 +1959,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2221,7 +1969,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2232,7 +1979,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2243,7 +1989,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 4,
                     "discount": 50,
@@ -2252,11 +1997,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Sweatshirts":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2267,7 +2009,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2278,7 +2019,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2289,7 +2029,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2300,7 +2039,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2311,7 +2049,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2322,7 +2059,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2333,7 +2069,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 5,
                     "discount": 50,
@@ -2342,11 +2077,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Jeans":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2357,7 +2089,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2368,7 +2099,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2379,7 +2109,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2390,7 +2119,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2401,7 +2129,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2412,7 +2139,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2423,7 +2149,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 6,
                     "discount": 50,
@@ -2432,11 +2157,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Shoes":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2447,7 +2169,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2458,7 +2179,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2469,7 +2189,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2480,7 +2199,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2491,7 +2209,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2502,7 +2219,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2513,7 +2229,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2524,7 +2239,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 8,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2535,7 +2249,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 9,
                     "category_id": 3,
                     "sub-category_id": 7,
                     "discount": 50,
@@ -2544,11 +2257,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Formals":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2559,7 +2269,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2570,7 +2279,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2581,7 +2289,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2592,7 +2299,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2603,7 +2309,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2614,7 +2319,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2625,7 +2329,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 8,
                     "discount": 50,
@@ -2634,11 +2337,8 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ],
-            "Kids_Watches":[
+                },
                 {
-                    "id": 0,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2649,7 +2349,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 1,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2660,7 +2359,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 2,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2671,7 +2369,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 3,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2682,7 +2379,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 4,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2693,7 +2389,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 5,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2704,7 +2399,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 6,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2715,7 +2409,6 @@
                     "actual_price": 40
                 },
                 {
-                    "id": 7,
                     "category_id": 3,
                     "sub-category_id": 9,
                     "discount": 50,
@@ -2724,11 +2417,7 @@
                     "short_des": "a short line about the cloth..",
                     "price": 20,
                     "actual_price": 40
-                }
-            ]
-        },
-        {
-            "Accessories":[
+                },
                 {
                     "category_id": 4,
                     "discount": 50,
@@ -3116,6 +2805,4 @@
                     "price": 20,
                     "actual_price": 40
                 }
-            ]
-        }
     ]
